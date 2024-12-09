@@ -3,11 +3,11 @@
 ![Banner do Projeto](https://github.com/EdAnder32/Master-Look/blob/main/background.png)
 
 ## Sobre o Projeto
-A facial recognition program made especially for 42 students in a Linux environment
+A facial recognition program made especially for 42 students in a Linux environment --
 Um programa de Reconhecimento facial feito para alunos da 42 no ambiente Linux
 
 ## Funcionalidades
-- [x] Atualizações automáticas;
+- [x] Face detection - Detecção de faces;
 - [x] Real-time recognition - Reconhecimento em tempo real;
 - [x] Automatic updates - Atualizações automáticas;
 
